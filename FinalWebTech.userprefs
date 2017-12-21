@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E4246BE3-5007-4BE6-91DD-A06F03EF8AE1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinalWebTech/Model/StdMarksRepo.cs">
+    <Files>
+      <File FileName="FinalWebTech/StudentViewHome.aspx" Line="22" Column="44" />
+      <File FileName="FinalWebTech/StudentViewHome.aspx.cs" Line="14" Column="31" />
+      <File FileName="FinalWebTech/MarksViewer.aspx" Line="150" Column="14" />
+      <File FileName="FinalWebTech/MarksViewer.aspx.cs" Line="124" Column="18" />
+      <File FileName="FinalWebTech/Default.aspx" Line="178" Column="6" />
+      <File FileName="FinalWebTech/Default.aspx.cs" Line="12" Column="58" />
+      <File FileName="FinalWebTech/Model/StdMarksRepo.cs" Line="96" Column="31" />
+      <File FileName="FinalWebTech/Model/StudentMarks.cs" Line="1" Column="1" />
+      <File FileName="FinalWebTech/Web.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FinalWebTech PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
